@@ -101,13 +101,66 @@ Grading
 
 Class participation, action learning, and written case assignments are given approximately equal weight. The short assignments are new this year and are considered extra credit; they can enhance your grade. They are graded √+, √, or √–. The synthesis assignment is graded only if you are on the borderline between A‐ and B+.
 
-| ACTIVITIES | WEIGHTS |
-| --- | --- |
-| Class Participation | 1/3 |
-| Action Learning | 1/3 |
-| Written Case Assignments | 1/3 |
-| Short Assignments | Extra Credit |
-| Synthesis Assignment | \- 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+WEIGHTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Action Learning
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written Case Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+Extra Credit
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Synthesis Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+\-
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Final Comments
 --------------
